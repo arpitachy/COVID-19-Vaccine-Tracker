@@ -24,8 +24,8 @@ The dataset I used in this project is from [ourworldindata](https://ourworldinda
 6. How does the GDP per capita affect the vaccination rate?
 
 ## Results
-I have created dashboard considred the question of interest.
-![image](https://github.com/jui-kumkum/SENG637_Assignment4_Group4/assets/17180836/b133ad28-d0bc-46e6-976d-19f07b19fc29)
+I have created dashboard considred the question of interest. I have utilized some features in tableau to make the dashboard such as calculated column, bar chart, map, trend line. Here is the dashboard
+![image](https://github.com/arpitachy/COVID-19-Vaccine-Tracker/blob/main/image/Final%20Dashboard.png)
 
 My Tableau dashboard [Link](https://public.tableau.com/app/profile/arpita.chowdhury3944/viz/COVIDVACINATIONDATAANALYSIS/FinalDashboard?publish=yes)
 ## Key Insights
@@ -34,4 +34,3 @@ My Tableau dashboard [Link](https://public.tableau.com/app/profile/arpita.chowdh
 3. The maximum number of people vaccinated is in North America, South America and Asia; the medium range of people vaccinated is in Europe and lowest range of vaccination belongs to Africa.
 4. Maximum GDP per capita is logarithmically increased with the number of vaccination.
    
-
