@@ -24,6 +24,9 @@ The dataset I used in this project is from [ourworldindata](https://ourworldinda
 6. How does the GDP per capita affect the vaccination rate?
 
 ## Results
+I have created dashboard considred the question of interest.
+![image](https://github.com/jui-kumkum/SENG637_Assignment4_Group4/assets/17180836/b133ad28-d0bc-46e6-976d-19f07b19fc29)
+
 My Tableau dashboard [Link](https://public.tableau.com/app/profile/arpita.chowdhury3944/viz/COVIDVACINATIONDATAANALYSIS/FinalDashboard?publish=yes)
 ## Key Insights
 1. A large Number of people are fully/partially vaccinated.
