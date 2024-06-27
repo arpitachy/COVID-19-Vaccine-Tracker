@@ -4,13 +4,13 @@
 - [Goal](#goal)
 - [Data](#data)
 - [Question of Interest](#QestiionOfInterest)
-- [Key Insights](#keyInsights)
 - [Results](#results)
+- [Key Insights](#keyInsights)
 
 ## Introduction
 COVID-19, caused by the SARS-CoV-2 virus, is a respiratory illness that emerged in late 2019 and led to a global pandemic.  Approximately 1.8 to 2 million people all over the world died due to COVID-19 in 2020. Vaccination is a crucial tool in controlling the COVID-19 pandemic that began in late 2020. It generally requires multiple doses to achieve optimal protection. Though the risk factor of this pandemic is now under control, tracking of COVID-19 vaccination needs to be emphasized to stop this pandemic fully and for future research.
-## Aim
-The main goal of this project is to get the overall COVID-19 vaccination data analysis using Tableau.
+## Goal
+The main goal of this project is to get the data analysis for overall COVID-19 vaccination status using Tableau public.
 
 ## Data
 The dataset I used in this project is from [ourworldindata](https://ourworldindata.org/covid-vaccinations?lid=33450) 
@@ -24,5 +24,11 @@ The dataset I used in this project is from [ourworldindata](https://ourworldinda
 6. How does the GDP per capita affect the vaccination rate?
 
 ## Results
-Summarize the results of the Covid_data project here.
+My Tableau dashboard [Link](https://public.tableau.com/app/profile/arpita.chowdhury3944/viz/COVIDVACINATIONDATAANALYSIS/FinalDashboard?publish=yes)
 ## Key Insights
+1. A large Number of people are fully/partially vaccinated.
+2. Till now 30% people are not vaccinated yet and 70% people are either partially or fully vaccinated over the world.
+3. The maximum number of people vaccinated is in North America, South America and Asia; the medium range of people vaccinated is in Europe and lowest range of vaccination belongs to Africa.
+4. Maximum GDP per capita is logarithmically increased with the number of vaccination.
+   
+
