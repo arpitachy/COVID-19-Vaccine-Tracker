@@ -24,7 +24,7 @@ The dataset I used in this project is from [ourworldindata](https://ourworldinda
 6. How does the GDP per capita affect the vaccination rate?
 
 ## Results
-I have created dashboard considred the question of interest. I have utilized some features in tableau to make the dashboard such as calculated column, bar chart, map, trend line. Here is the dashboard:
+I have created dashboard considering the question of interest. I have utilized some features in tableau to make the dashboard such as calculated column, bar chart, map, trend line. Here is the dashboard:
 ![image](https://github.com/arpitachy/COVID-19-Vaccine-Tracker/blob/main/image/Final%20Dashboard.png)
 
 My Tableau dashboard: [Link](https://public.tableau.com/app/profile/arpita.chowdhury3944/viz/COVIDVACINATIONDATAANALYSIS/FinalDashboard?publish=yes)
